@@ -98,7 +98,7 @@ void *localMax(void* arg){
  /thread code/
  clock_gettime(CLOCK_MONOTONIC, &end);
  double elapsed= (end.tv_sec- start.tv_sec) + (end.tv_nsec- start.tv_nsec) /1e9;
- printf("Time: %.6f sec\n", elapsed); printf("Time: %.6f sec\n", elapsed);
+ printf("Time: %.6f sec\n", elapsed);
 
  In the section of code between clock_gettime() I made sure to include only the
  threads' code so that I/O would not affect the measurements.
