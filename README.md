@@ -1,4 +1,4 @@
-# Operating Systems II - CSE UniWA Course 2024-2025 
+# Operating Systems II
 
 The syllabus of the course is as follows:
 
