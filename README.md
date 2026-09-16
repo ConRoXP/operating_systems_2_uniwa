@@ -4,10 +4,10 @@ The syllabus of the course is as follows:
 
 • **Multiprocessor and Multicomputer Operating Systems**  
 • **Advanced concepts of process communication-synchronization**  
-• **Thread Management in multiprocessing environments**
-• **Real-Time Operating Systems** 
-• **Virtual machines - virtualization**
-• **Network and distributed resource operating systems**
+• **Thread Management in multiprocessing environments**  
+• **Real-Time Operating Systems**  
+• **Virtual machines - virtualization**  
+• **Network and distributed resource operating systems**  
 
 **Lab**:
 Unix/Linux: System programming and concurrent processes (child processes, use of fork,
