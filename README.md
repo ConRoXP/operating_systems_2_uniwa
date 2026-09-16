@@ -2,13 +2,12 @@
 
 The syllabus of the course is as follows:
 
-• **Multiprocessor and Multicomputer Operating Systems** (special requirements and operating system design issues for multiprocessor environments, process communication and synchronization methods, process scheduling algorithms, memory schemes and memory management methods, load distribution across multiple processors, etc.).  
-• **Advanced concepts of process communication-synchronization** (theory of deadlock prevention and avoidance, inter-process communication through pipes and sockets, etc.).  
-• **Thread Management in multiprocessing environments** (special requirements and scheduling algorithms, special requirements and synchronization-communication mechanisms, etc.).  
-• **Real-Time Operating Systems** (basic concepts and design issues, special algorithms for CPU scheduling, memory organization-management and disk scheduling, application in embedded systems and multimedia systems, etc.).  
-• **Special requirements of operating systems of mobile devices and environments with limited resources** (sensor networks, etc.).  
-• **Virtual machines - virtualization** (definitions, categorization, virtualization techniques, the concept of hypervisor and supported types, etc.).  
-• **Network and distributed resource operating systems** (definitions, categorization, design issues, services, etc.).  
+• **Multiprocessor and Multicomputer Operating Systems**  
+• **Advanced concepts of process communication-synchronization**  
+• **Thread Management in multiprocessing environments**
+• **Real-Time Operating Systems** 
+• **Virtual machines - virtualization**
+• **Network and distributed resource operating systems**
 
 **Lab**:
 Unix/Linux: System programming and concurrent processes (child processes, use of fork,
